@@ -1,9 +1,4 @@
-### welcome to the skeleton zone
 
-some people (no one) ask me.... why am i named skeleton??? cus im bad (not in a cool way) to tha bone! im addicted to tf2 and yeah thats about it idk fun fact i play tf2
-
-
-<!--
 **jskeleton/jskeleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
